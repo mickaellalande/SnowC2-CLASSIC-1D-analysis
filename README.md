@@ -4,6 +4,8 @@ This repository gathers the code used to make the analyses of the paper publishe
 
 >Lalande et al.: Improving the CLASSIC (v1.8) Snow Model to Better Simulate Arctic Snowpacks
 
+The archived version of this analysis code is available on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18154778.svg)](https://doi.org/10.5281/zenodo.18154778)
+
 ## Code
 
 The model code is available in another repository: [SnowC2-CLASSIC-1D-model](https://github.com/mickaellalande/SnowC2-CLASSIC-1D-model)
