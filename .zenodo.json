@@ -1,0 +1,27 @@
+{
+  "title": "SnowC2-CLASSIC-1D-analysis: Analysis and figure-generation code",
+  "description": "This repository contains the analysis scripts and notebooks used to generate the figures and results presented in Lalande et al. (preprint), Improving the CLASSIC (v1.8) Snow Model to Better Simulate Arctic Snowpacks.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Lalande, Mickaël",
+      "orcid": "0000-0001-5014-5249",
+      "affiliation": "Université du Québec à Trois-Rivières"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "snow modelling",
+    "CLASSIC",
+    "Arctic snow",
+    "data analysis",
+    "Geoscientific Model Development"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mickaellalande/SnowC2-CLASSIC-1D-model",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
