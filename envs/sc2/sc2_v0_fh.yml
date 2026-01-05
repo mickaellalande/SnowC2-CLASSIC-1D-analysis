@@ -1,0 +1,30 @@
+name: sc2_v0
+channels:
+  - conda-forge
+dependencies:
+  - xesmf
+  - dask
+  - xarray
+  - pandas
+  - scipy
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - proplot
+  - cartopy
+  - matplotlib[version='<=3.5']
+  - intake-esm
+  - python-graphviz
+  - nbresuse
+  - nc-time-axis
+  - nb_conda_kernels
+  - ipympl
+  - gcsfs
+  - zarr
+  - lxml
+  - ca-certificates
+  - certifi
+  - openssl
+  - cdsapi
+  - openpyxl
+prefix: /home/lalandmi/miniconda3/envs/sc2_v0
