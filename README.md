@@ -50,14 +50,13 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 [<img src="CLASSIC-1D/img/snd_ts_v1_correct_SH.png" alt="Figure A1" width="300"/>](CLASSIC-1D/img/snd_ts_v1_correct_SH.pdf)
 
-
-- Figure B1: [run_peat_TCZE_ALL_TSNB_final.ipynb](CLASSIC-1D/SnowArctic/byl/outputs/run_peat_TCZE_ALL_TSNB_final.ipynb)
-
-[<img src="CLASSIC-1D/SnowArctic/byl/outputs/img/byl_tsnbot_2015-2019_final_v0.png" alt="Figure B2" width="300"/>](CLASSIC-1D/SnowArctic/byl/outputs/img/byl_tsnbot_2015-2019_final_v0.pdf)
-
-- Figure B2: [TSNBOT_figures.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/TSNBOT_figures_v3.ipynb)
+- Figure B1: [TSNBOT_figures.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/TSNBOT_figures_v3.ipynb)
 
 [<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.png" alt="Figure 3" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.pdf)
+
+- Figure B2: [run_peat_TCZE_ALL_TSNB_final.ipynb](CLASSIC-1D/SnowArctic/byl/outputs/run_peat_TCZE_ALL_TSNB_final.ipynb)
+
+[<img src="CLASSIC-1D/SnowArctic/byl/outputs/img/byl_tsnbot_2015-2019_final_v0.png" alt="Figure B2" width="300"/>](CLASSIC-1D/SnowArctic/byl/outputs/img/byl_tsnbot_2015-2019_final_v0.pdf)
 
 - Figure C1: [paper_ac_rank_PHYS_correct_SH_v2.ipynb](CLASSIC-1D/paper_ac_rank_PHYS_correct_SH_v2.ipynb)
 
@@ -84,19 +83,18 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 ## Supplement Figures
 
-- Figure S1: [spinup_Ref_30min_ext.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/spinup_Ref_30min_ext.ipynb)
+- Figure S1: [run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb](CLASSIC-1D/SnowArctic/tvc/outputs/run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb)
+
+[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.png" alt="Figure S1" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.pdf)
+
+- Figure S2: [spinup_Ref_30min_ext.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/spinup_Ref_30min_ext.ipynb)
 
 [<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/spinup_cdp.png" alt="Figure S1" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/spinup_cdp.pdf)
 
 
-- Figure S2: [paper_ac_albedo_correct_SH_v2.ipynb](CLASSIC-1D/paper_ac_albedo_correct_SH_v2.ipynb)
+- Figure S3: [paper_ac_albedo_correct_SH_v2.ipynb](CLASSIC-1D/paper_ac_albedo_correct_SH_v2.ipynb)
 
 [<img src="CLASSIC-1D/img/paper_ac_all_albedo_v2_correct_SH.png" alt="Figure S1" width="300"/>](CLASSIC-1D/img/paper_ac_all_albedo_v2_correct_SH.pdf)
-
-
-- Figure S3: [run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb](CLASSIC-1D/SnowArctic/tvc/outputs/run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb)
-
-[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.png" alt="Figure S1" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.pdf)
 
 
 - Figure S4: [run_paper_vwc.ipynb](CLASSIC-1D/SnowArctic/run_paper_vwc.ipynb)
