@@ -32,10 +32,10 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 [<img src="CLASSIC-1D/SnowArctic/byl/outputs/img/byl_peat_paper_all_2014-2019_v2.png" alt="Figure 5" width="300"/>](CLASSIC-1D/SnowArctic/byl/outputs/img/byl_peat_paper_all_2014-2019_v2.pdf)
 
-- Figure 6 and 7: [paper_ac_rank_ALL_correct_SH.ipynb](CLASSIC-1D/paper_ac_rank_ALL_correct_SH.ipynb)
+- Figure 6 and 7: [paper_ac_rank_ALL_correct_SH_v5.ipynb](CLASSIC-1D/paper_ac_rank_ALL_correct_SH_v5.ipynb)
 
-[<img src="CLASSIC-1D/img/paper_rmse_all_v1_correct_SH.png" alt="Figure 6" width="300"/>](CLASSIC-1D/img/paper_rmse_all_v1_correct_SH.pdf)
-[<img src="CLASSIC-1D/img/paper_mb_all_v1_correct_SH.png" alt="Figure 7" width="300"/>](CLASSIC-1D/img/paper_mb_all_v1_correct_SH.pdf)
+[<img src="CLASSIC-1D/img/paper_rmse_all_v5_correct_SH.png" alt="Figure 6" width="300"/>](CLASSIC-1D/img/paper_rmse_all_v5_correct_SH.pdf)
+[<img src="CLASSIC-1D/img/paper_mb_all_v5_correct_SH.png" alt="Figure 7" width="300"/>](CLASSIC-1D/img/paper_mb_all_v5_correct_SH.pdf)
 
 ## Appendix Figures
 
@@ -55,10 +55,10 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 [<img src="CLASSIC-1D/img/paper_ac_phys_v4_correct_SH.png" alt="Figure C1" width="300"/>](CLASSIC-1D/img/paper_ac_phys_v4_correct_SH.pdf)
 
-- Figure C2 and C3: [paper_ac_rank_PHYS_correct_SH.ipynb](CLASSIC-1D/paper_ac_rank_PHYS_correct_SH.ipynb)
+- Figure C2 and C3: [paper_ac_rank_PHYS_correct_SH_v5.ipynb](CLASSIC-1D/paper_ac_rank_PHYS_correct_SH_v5.ipynb)
 
-[<img src="CLASSIC-1D/img/paper_rmse_phys_v1_correct_SH.png" alt="Figure C2" width="300"/>](CLASSIC-1D/img/paper_rmse_phys_v1_correct_SH.pdf)
-[<img src="CLASSIC-1D/img/paper_mb_phys_v1_correct_SH.png" alt="Figure C3" width="300"/>](CLASSIC-1D/img/paper_mb_phys_v1_correct_SH.pdf)
+[<img src="CLASSIC-1D/img/paper_rmse_phys_v5_correct_SH.png" alt="Figure C2" width="300"/>](CLASSIC-1D/img/paper_rmse_phys_v5_correct_SH.pdf)
+[<img src="CLASSIC-1D/img/paper_mb_phys_v5_correct_SH.png" alt="Figure C3" width="300"/>](CLASSIC-1D/img/paper_mb_phys_v5_correct_SH.pdf)
 
 - Figure D1: [run_umt_paper_correct_SH.ipynb](CLASSIC-1D/SnowArctic/umt/outputs/run_umt_paper_correct_SH.ipynb)
 
