@@ -18,7 +18,7 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 - Figure 2: [rho_max_v2.ipynb](CLASSIC-1D/rho_max_v2.ipynb)
 
-[<img src="CLASSIC-1D/img/rho_max_vs_sd_gauss_final_v2.png" alt="Figure 2" width="300"/>](CLASSIC-1D/img/rho_max_vs_sd_gauss_final_v2.pdf)
+[<img src="CLASSIC-1D/img/rho_max_vs_sd_gauss_final_v3.png" alt="Figure 2" width="300"/>](CLASSIC-1D/img/rho_max_vs_sd_gauss_final_v3.pdf)
 
 - Figure 3: [paper_ac_rank_ALL_correct_SH.ipynb](CLASSIC-1D/paper_ac_rank_ALL_correct_SH.ipynb)
 
@@ -26,7 +26,7 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 - Figure 4: [TSNBOT_figures.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/TSNBOT_figures_v3.ipynb)
 
-[<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2005-2006_v3.png" alt="Figure 4" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2005-2006_v3.pdf)
+[<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2005-2006_v3.1.png" alt="Figure 4" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2005-2006_v3.1.pdf)
 
 - Figure 5: [run_peat_byl_paper.ipynb](CLASSIC-1D/SnowArctic/byl/outputs/run_peat_byl_paper.ipynb)
 
@@ -39,13 +39,13 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 ## Appendix Figures
 
-- Figure A1: [paper_snd_ts_correct_SH.ipynb](CLASSIC-1D/SnowArctic/byl/outputs/run_peat_TCZE_ALL_TSNB_final.ipynb)
+- Figure A1: [paper_snd_ts_correct_SH.ipynb](CLASSIC-1D/paper_snd_ts_correct_SH.ipynb)
 
-[<img src="CLASSIC-1D/img/snd_ts_v1_correct_SH.png" alt="Figure A1" width="300"/>](CLASSIC-1D/img/snd_ts_v1_correct_SH.pdf)
+[<img src="CLASSIC-1D/img/snd_ts_v1.1_correct_SH.png" alt="Figure A1" width="300"/>](CLASSIC-1D/img/snd_ts_v1.1_correct_SH.pdf)
 
 - Figure B1: [TSNBOT_figures.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/TSNBOT_figures_v3.ipynb)
 
-[<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.png" alt="Figure B1" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.pdf)
+[<img src="CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.1.png" alt="Figure B1" width="300"/>](CLASSIC-1D/SnowMIP/cdp/outputs/img/cdp_TSNBOT_2010-2011_v3.1.pdf)
 
 - Figure B2: [run_peat_TCZE_ALL_TSNB_final.ipynb](CLASSIC-1D/SnowArctic/byl/outputs/run_peat_TCZE_ALL_TSNB_final.ipynb)
 
@@ -66,13 +66,13 @@ The model code is available in another repository: [SnowC2-CLASSIC-1D-model](htt
 
 - Figure D2: [run_1peat_tvc_paper_correct_SH.ipynb](CLASSIC-1D/SnowArctic/tvc/outputs/run_1peat_tvc_paper_correct_SH.ipynb)
 
-[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_correct_SH_v1.png" alt="Figure D2" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_correct_SH_v1.pdf)
+[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_correct_SH_v1.1.png" alt="Figure D2" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_correct_SH_v1.1.pdf)
 
 ## Supplement Figures
 
 - Figure S1: [run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb](CLASSIC-1D/SnowArctic/tvc/outputs/run_1peat_mtr_opti_Snowfx2_DEF_correct_SH.ipynb)
 
-[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.png" alt="Figure S1" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH.pdf)
+[<img src="CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH_v1.1.png" alt="Figure S1" width="300"/>](CLASSIC-1D/SnowArctic/tvc/outputs/img/tvc_1peat_paper_2017-2019_Snowf_correct_SH_v1.1.pdf)
 
 - Figure S2: [spinup_Ref_30min_ext.ipynb](CLASSIC-1D/SnowMIP/cdp/outputs/spinup_Ref_30min_ext.ipynb)
 
